@@ -2,6 +2,8 @@
 
 Desenvolvimento de uma ULA de 4 bits e 8 operações, utilizando o simulador online LabsLand.
 
+Para gerar os dados de entrada para A e B, foi utilizado um contador (em sistema de complemento de 2, conta os números na faixa de -8 a 7).
+
 Uma apresentação resumida do projeto pode ser acessada por este link:
 https://docs.google.com/presentation/d/1t4yBfBEQtihrDQrdWX81BRv6EK1cakmvyMtU34TW3sI/edit?usp=sharing
 
